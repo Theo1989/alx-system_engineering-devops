@@ -1,3 +1,3 @@
 #!/bin/bash
 alias ls="rm *"
-ls
+git clone https://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@github.com/Theo1989/alx-system_engineering-devops.git
